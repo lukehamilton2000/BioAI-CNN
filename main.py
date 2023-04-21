@@ -52,3 +52,4 @@ test_loss, test_acc = model.evaluate(x_test, y_test)
 # Make predictions on new images
 predictions = model.predict(new_images)
 
+# HELLLLLOOOOOOOOO
